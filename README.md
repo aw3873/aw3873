@@ -5,7 +5,7 @@
 - 📫 How to reach me aw3873@email.vccs.edu  
 - 😄 Pronouns: He
 - ⚡ Fun fact:  I’ve been skydiving—it was an unforgettable adrenaline rush!
-
+use Markdown syntax: ![Alt text(url))
 <!---
 aw3873/aw3873 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
